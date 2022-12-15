@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	수정문구
+	테스트
 </body>
 </html>
